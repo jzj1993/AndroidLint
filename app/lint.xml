@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lint>
+    <!--&lt;!&ndash;配置所有Issue的默认优先级&ndash;&gt;-->
+    <!--<issue id="all" severity="warning"/>-->
+    <!--&lt;!&ndash;配置指定Issue的优先级&ndash;&gt;-->
+    <!--<issue id="ShowToast" severity="error"/>-->
+    <!--&lt;!&ndash;忽略指定路径的指定问题，支持正则表达式或path匹配&ndash;&gt;-->
+    <!--<issue id="NewApi">-->
+        <!--<ignore regexp=".*MainActivity.java"/>-->
+        <!--<ignore path="**/com/paincker/lint/demo/MainActivity.java"/>-->
+        <!--<ignore path="res/layout/activation.xml"/>-->
+    <!--</issue>-->
+</lint>
